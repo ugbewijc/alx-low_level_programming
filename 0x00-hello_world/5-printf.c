@@ -1,13 +1,14 @@
 #include <stdio.h>
 
 /**
- * main() - Program Entry point
- * Args: takes no args
+ * main - Program Entry point
  *
- * Des: use printf() to print exactly
- *  " with proper grammar, but the outcome is a piece of art"
- *  function to print to stdout
- * Return: return 0(success)
+ * description: use printf() to print exactly
+ * 'with proper grammar, but the outcome is piece of art' to stdout
+ *
+ * arg: takes no arg
+ *
+ * Return: returns 0(sucess)
  *
  */
 
