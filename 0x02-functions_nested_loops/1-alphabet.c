@@ -16,16 +16,12 @@
 
 void print_alphabet(void)
 {
-	int i = 0;
-	char c;
+	char starting_letter = 'a';
 
-	while (i <= 9)
+	while (starting_letter <= 'z')
 	{
-		for (c = 'a'; c <= 'z'; ch++)
-		{
-			_putchar(c);
-		}
-		_putchar(10);
-		i++;
+		_putchar(strating_letter);
+		starting_letter++;
 	}
+	_putchar(10);
 }
