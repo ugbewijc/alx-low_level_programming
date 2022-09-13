@@ -20,7 +20,7 @@ void print_alphabet(void)
 
 	while (starting_letter <= 'z')
 	{
-		_putchar(strating_letter);
+		_putchar(starting_letter);
 		starting_letter++;
 	}
 	_putchar(10);
